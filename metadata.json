@@ -1,0 +1,8 @@
+{
+  "name": "Earnova",
+  "description": "Complete. Earn. Grow. A modern task-and-rewards Telegram Mini App with promotional tasks, time-based mining, referrals, and instant USD withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
